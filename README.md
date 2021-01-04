@@ -1,2 +1,2 @@
 # python-programs
-this repository includes programs and projects written in python language
+this repository includes programs  written in python language
